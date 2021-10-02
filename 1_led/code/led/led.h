@@ -13,7 +13,7 @@
 
 /*
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
- * \class		  LED
+ * \class		- LED
  *
  * \details		- Class controls two types of led connections.
  * 				- Pull-up and Pull-down connections.
@@ -23,14 +23,14 @@
  */
 class LED{
 public:
-	void init(unsigned volatile char *DDRx,uint8_t volatile *PORTx, uint8_t PINn,uint8_t state);	// initialization.
+	void init(volatile uint8_t *DDRx,uint8_t volatile *PORTx, uint8_t PINn,uint8_t state);	// initialization.
 	void turn_on(void);			 // Turn led on.
 	void turn_off(void);		 // Turn led offs.
 	void toggle(void);			 // led toggle state.
 	void blink(uint16_t time);   // led blink function.
 
 private:
-	unsigned volatile char  *DDR;
+	volatile uint8_t  *DDR;
 	uint8_t volatile  *PORT;
 			 uint8_t   pin;
 			 uint8_t   state;

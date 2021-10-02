@@ -21,7 +21,7 @@
  * \ return		- void.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  */
-void LED :: init(unsigned volatile char *DDRx, volatile uint8_t *PORTx, uint8_t PINn,uint8_t state){
+void LED :: init(volatile uint8_t *DDRx, volatile uint8_t *PORTx, uint8_t PINn,uint8_t state){
 	// save led hardware configuration.
 	LED :: DDR   = DDRx;
 	LED :: PORT  = PORTx;
