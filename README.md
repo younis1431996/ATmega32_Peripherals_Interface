@@ -1,2 +1,21 @@
-# ATmega32_Peripherals_Interface
- GPIO, pin change interrupt, timers, wave generator, PWM, frequncy measurement, ADC and sommunication protocols interfacing.ment interfac
+## ATmega32_Peripherals_Interface
+ #derivers:<br />
+ 1.led.<br />
+ 2.button.<br />
+ 3.seven segment.<br />
+ 4.lcd.<br />
+ 5.keypad.<br />
+ 6.External interrupts.<br />
+ 7.Timer0.<br />
+ 8.Timer1.<br />
+ 9.Timer2.<br />
+ 10.ADC.<br />
+ 11.Analog comparator.<br />
+ 12.USART.<br />
+ 13.SPI.<br />
+ 14.I2C.<br />
+ 15.EEPROM.<br />
+ #all above derivers is written by Mahmoud Mohamed Younis using eclipse CPP software<br />
+ and tested by protues circuit simulator.
+ <br />
+ 
