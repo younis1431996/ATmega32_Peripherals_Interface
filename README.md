@@ -15,6 +15,6 @@
  13.SPI.<br />
  14.I2C.<br />
  15.EEPROM.<br />
- #### all above derivers is written by <em> Mahmoud Mohamed Younis </em> using eclipse CPP software<br /> and tested by protues circuit simulator.
+ #### all above derivers is written by <strong><em> Mahmoud Mohamed Younis </em></strong> using eclipse CPP software<br /> and tested by protues circuit simulator.
  <br />
  
