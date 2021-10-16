@@ -15,7 +15,7 @@
  13.SPI.<br />
  14.I2C.<br />
  15.EEPROM.<br />
- ### all above derivers is written using eclipse CPP software<br /> and tested by protues circuit simulator. 
+ ### all above derivers is written using eclipse CPP software and tested by protues circuit simulator. 
  ###  author:    Mahmoud Mohamed Younis 
  ###  details:   Embedded system software engineer, Automotive localization system and sensor fusion engineer.
  ###  mail:      younis1431996@gmail.com
