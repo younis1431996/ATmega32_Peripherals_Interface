@@ -1,5 +1,5 @@
 # ATmega32_Peripherals_Interface
-<font size="1">derivers:</font><br />
+<font size="3">derivers:</font><br />
  1.led.<br />
  2.button.<br />
  3.seven segment.<br />
