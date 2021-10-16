@@ -1,5 +1,5 @@
 # ATmega32_Peripherals_Interface
-<font size="3">derivers:</font><br />
+## derivers:<br />
  1.led.<br />
  2.button.<br />
  3.seven segment.<br />
@@ -15,7 +15,7 @@
  13.SPI.<br />
  14.I2C.<br />
  15.EEPROM.<br />
- ##all above derivers is written by Mahmoud Mohamed Younis using eclipse CPP software<br />
- and tested by protues circuit simulator.
+ ## all above derivers is written by Mahmoud Mohamed Younis using eclipse CPP software<br />
+ ## and tested by protues circuit simulator.
  <br />
  
