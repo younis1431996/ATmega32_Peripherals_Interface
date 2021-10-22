@@ -78,5 +78,5 @@
 #define force_cusror_to_start_with_2nd_row	     (0xC0)
 
 /* init lcd mode. */
-#define __init__									 (0x32)
+#define __init__							     (0x32)
 #endif /* LCD_LCD16X2_COMMANDS_H_ */
