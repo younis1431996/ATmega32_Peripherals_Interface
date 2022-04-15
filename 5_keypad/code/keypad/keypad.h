@@ -51,7 +51,7 @@ public:
 			// Insert nop for synchronization
 			__asm__("nop");
 
-			// 2.Activate PUD.
+			// 2.Activate PUR.
 			*column_PUD |= (1<<column_pin[c]);
 			// Insert nop for synchronization
 			__asm__("nop");
